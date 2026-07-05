@@ -1,0 +1,96 @@
+# מכבי חיפה — Generative Engine Optimization Map
+
+> A fan merchandise and products website for Maccabi Haifa, one of Israel's most iconic and beloved football clubs. The site should reflect the club's passionate green-and-white identity, its rich history, and deep connection with its loyal fanbase. The focus is on selling official club merchandise and fan products.
+
+---
+
+## Pages
+
+### דף הבית
+https://-52bd1a27.zappy5.app
+חנות המרצ'נדייז הרשמית של מכבי חיפה. גופיות, כובעים, אביזרים ועוד — כל מה שאוהד ירוק-לבן צריך!
+
+### Products
+https://-52bd1a27.zappy5.app/products
+המוצרים שלנו - מכבי חיפה
+
+### אודות
+https://-52bd1a27.zappy5.app/about
+הכירו את מכבי חיפה — קבוצת הכדורגל האייקונית של ישראל מאז 1913. היסטוריה עשירה, אוהדים נאמנים ומרצ'נדייז רשמי.
+
+### צור קשר
+https://-52bd1a27.zappy5.app/contact
+צרו קשר עם חנות מכבי חיפה הרשמית להזמנות, שאלות על מוצרים ומרצ'נדייז. נשמח לעזור לכל אוהד ירוק-לבן!
+
+### Cart
+https://-52bd1a27.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-52bd1a27.zappy5.app/checkout
+תשלום
+
+### Login
+https://-52bd1a27.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-52bd1a27.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-52bd1a27.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-52bd1a27.zappy5.app/product/:slug
+פרטי המוצר - מכבי חיפה
+
+### Category
+https://-52bd1a27.zappy5.app/category/:slug
+מוצרים - מכבי חיפה
+
+## Legal & Policy
+
+### Privacy Policy
+https://-52bd1a27.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-52bd1a27.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-52bd1a27.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מכבי חיפה
+A fan merchandise and products website for Maccabi Haifa, one of Israel's most iconic and beloved football clubs. The site should reflect the club's passionate green-and-white identity, its rich history, and deep connection with its loyal fanbase. The focus is on selling official club merchandise and fan products.
+
+## Target Audience
+- אוהדי מכבי חיפה
+- שחקני כדורגל צעירים
+- משפחות שמגיעות לאירועים
+
+## Industry
+Sports Club / Football
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-52bd1a27.zappy5.app/sitemap.xml
+- Robots: https://-52bd1a27.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-52bd1a27.zappy5.app/llms-full.txt
+- Products (JSON): https://-52bd1a27.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-52bd1a27.zappy5.app/product-feed.xml
