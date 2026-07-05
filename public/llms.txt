@@ -7,61 +7,61 @@
 ## Pages
 
 ### דף הבית
-https://-52bd1a27.zappy5.app
+https://example.com
 חנות המרצ'נדייז הרשמית של מכבי חיפה. גופיות, כובעים, אביזרים ועוד — כל מה שאוהד ירוק-לבן צריך!
 
 ### Products
-https://-52bd1a27.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - מכבי חיפה
 
 ### אודות
-https://-52bd1a27.zappy5.app/about
+https://example.com/about
 הכירו את מכבי חיפה — קבוצת הכדורגל האייקונית של ישראל מאז 1913. היסטוריה עשירה, אוהדים נאמנים ומרצ'נדייז רשמי.
 
 ### צור קשר
-https://-52bd1a27.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם חנות מכבי חיפה הרשמית להזמנות, שאלות על מוצרים ומרצ'נדייז. נשמח לעזור לכל אוהד ירוק-לבן!
 
 ### Cart
-https://-52bd1a27.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-52bd1a27.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-52bd1a27.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-52bd1a27.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-52bd1a27.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-52bd1a27.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - מכבי חיפה
 
 ### Category
-https://-52bd1a27.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - מכבי חיפה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-52bd1a27.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-52bd1a27.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-52bd1a27.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -89,8 +89,8 @@ Sports Club / Football
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-52bd1a27.zappy5.app/sitemap.xml
-- Robots: https://-52bd1a27.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-52bd1a27.zappy5.app/llms-full.txt
-- Products (JSON): https://-52bd1a27.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-52bd1a27.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
